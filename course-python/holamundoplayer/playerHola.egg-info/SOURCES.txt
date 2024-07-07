@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+holamundoplayes/__init__.py
+holamundoplayes/player.py
+playerHola.egg-info/PKG-INFO
+playerHola.egg-info/SOURCES.txt
+playerHola.egg-info/dependency_links.txt
+playerHola.egg-info/top_level.txt
